@@ -1,3 +1,6 @@
+#
+# 2012.06.06
+#
 use strict;
 
 my %position;
