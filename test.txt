@@ -1,5 +1,0 @@
-test
-
-This is the second line.
-
-The line 3.
